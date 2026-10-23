@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "麒宝专属英文辅导小老师",
+  "short_name": "麒宝英文",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#dff2ff",
+  "theme_color": "#76b8e8",
+  "lang": "zh-CN",
+  "categories": ["education", "kids"],
+  "icons": [
+    { "src": "./assets/icons/qibao-app-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./assets/icons/qibao-app-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
